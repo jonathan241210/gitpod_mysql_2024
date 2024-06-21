@@ -24,7 +24,7 @@ CREATE TABLE temas (
   dificultad int NOT NULL,
   PRIMARY KEY (id_tema),
   KEY temas_materias_FK (id_materia),
-  CONSTRAINT temas_materias_FK FOREIGN KEY (id_materia) REFERENCES materias (id_materia) ON DELETE SET DEFAULT ON UPDATE SET DEFAULT
+  CONSTRAINT temas_materias_FK FOREIGN KEY (id_materia) REFERENCES materias (id_materia) ON DELETE SET DEFAULT ON UPDATE SET DEFAULT,
   CONSTRAINT chk_dificultad CHECK (dificultad BETWEEN 1 AND 5)
 ) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
@@ -44,8 +44,8 @@ CREATE TABLE preguntas (
   calidad_promt int NOT NULL,
   PRIMARY KEY (id_pregunta),
   KEY preguntas_temas_FK (id_tema),
-  CONSTRAINT preguntas_temas_FK FOREIGN KEY (id_tema) REFERENCES temas (id_tema) ON DELETE SET DEFAULT ON UPDATE SET DEFAULT
-  CONSTRAINT chk_calidad_promt CHECK (calidad_prompt >= 1 AND calidad_prompt <= 5);
+  CONSTRAINT preguntas_temas_FK FOREIGN KEY (id_tema) REFERENCES temas (id_tema) ON DELETE SET DEFAULT ON UPDATE SET DEFAULT,
+  CONSTRAINT chk_calidad_promt CHECK (calidad_promt >= 1 AND calidad_promt <= 5)
 ) ENGINE=InnoDB AUTO_INCREMENT=26 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 LOAD DATA LOCAL INFILE "preguntas.csv"
@@ -64,7 +64,8 @@ CREATE TABLE respuestas (
   calidad_respuesta int NOT NULL,
   PRIMARY KEY (id_respuesta),
   KEY respuestas_preguntas_FK (id_pregunta),
-  CONSTRAINT respuestas_preguntas_FK FOREIGN KEY (id_pregunta) REFERENCES preguntas (id_pregunta) ON DELETE SET DEFAULT ON UPDATE SET DEFAULT
+  CONSTRAINT respuestas_preguntas_FK FOREIGN KEY (id_pregunta) REFERENCES preguntas (id_pregunta) ON DELETE SET DEFAULT ON UPDATE SET DEFAULT,
+  CONSTRAINT chk_calidad_respuesta CHECK (calidad_respuesta IN ('bueno', 'regular', 'malo'))
 ) ENGINE=InnoDB AUTO_INCREMENT=151 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 LOAD DATA LOCAL INFILE "respuestas.csv"

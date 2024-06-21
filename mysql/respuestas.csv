@@ -36,7 +36,7 @@ id_respuesta,id_pregunta,respuesta,ai,calidad_respuesta
 35,10,"Los líderes enfrentan desafíos como la gestión de la diversidad cultural, comunicación efectiva y adaptación a cambios rápidos.",gemini,bueno
 36,11,"El comportamiento asertivo implica expresar opiniones y necesidades de manera clara y respetuosa, crucial para una comunicación efectiva.",gemini,bueno
 37,12,"Ser asertivo es expresar necesidades respetuosamente, ser pasivo es evitar la confrontación y ser agresivo es imponer sin consideración.",gemini,regular
-38,13,"A través de la práctica de la comunicación clara, la auto-reflexión y el entrenamiento en habilidades interpersonales.",gemini,beuno
+38,13,"A través de la práctica de la comunicación clara, la auto-reflexión y el entrenamiento en habilidades interpersonales.",gemini,bueno
 39,14,"El miedo al rechazo, la baja autoestima y la falta de habilidades de comunicación.",gemini,bueno
 40,15,"La empatía permite entender y considerar las perspectivas de otros, facilitando una comunicación respetuosa y efectiva.",gemini,bueno
 41,16,"Las formas de trabajo flexibles permiten horarios y ubicaciones de trabajo adaptables, beneficiando la productividad y el equilibrio entre vida laboral y personal.",gemini,bueno
@@ -117,7 +117,7 @@ id_respuesta,id_pregunta,respuesta,ai,calidad_respuesta
 116,16,"Las formas flexibles de trabajo incluyen el trabajo remoto, híbrido y presencial. Sus beneficios para los empleadores incluyen mayor flexibilidad y productividad, mientras que para los empleados incluyen un mejor equilibrio entre la vida y el trabajo y un mayor control sobre su tiempo.",gema,regular
 117,17,"El trabajo remoto es completamente en línea, el trabajo híbrido es una mezcla de presencial y remoto, mientras que el trabajo presencial es en la oficina o en un espacio físico específico. El trabajo remoto puede aumentar la productividad, mientras que el trabajo presencial puede mejorar la colaboración.",gema,bueno
 118,18,Desafíos para implementar modelos de trabajo a distancia incluyen la necesidad de establecer políticas y procesos claros para la comunicación y la colaboración.,gema,bueno
-119,19,"Las tecnologías de la información y comunicación pueden facilitar la colaboración en equipos distribuidos mediante plataformas de videoconferencia, herramientas de comunicación grupal y sistemas de gestión de proyectos digitales.",gema,reular
+119,19,"Las tecnologías de la información y comunicación pueden facilitar la colaboración en equipos distribuidos mediante plataformas de videoconferencia, herramientas de comunicación grupal y sistemas de gestión de proyectos digitales.",gema,regular
 120,20,"Las tendencias emergentes en las formas de trabajo incluyen el trabajo remoto flexible, la gamificación del trabajo y la inteligencia artificial en la gestión del trabajo.",gema,bueno
 121,21,La filosofía organizacional es una conjunto de principios y valores que guían las acciones y decisiones de una empresa.,gema,bueno
 122,22,Alinear la filosofía organizacional con los objetivos estratégicos de una empresa aumenta la eficiencia y la eficacia.,gema,regular
