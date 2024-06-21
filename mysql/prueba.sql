@@ -25,6 +25,7 @@ CREATE TABLE temas (
   PRIMARY KEY (id_tema),
   KEY temas_materias_FK (id_materia),
   CONSTRAINT temas_materias_FK FOREIGN KEY (id_materia) REFERENCES materias (id_materia) ON DELETE SET DEFAULT ON UPDATE SET DEFAULT
+  CONSTRAINT chk_dificultad CHECK (dificultad BETWEEN 1 AND 5)
 ) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 LOAD DATA LOCAL INFILE "temas.csv"
