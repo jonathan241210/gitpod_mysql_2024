@@ -1,151 +1,151 @@
 id_respuesta,id_pregunta,respuesta,ai,calidad_respuesta
-1,1,El poder es la capacidad de influir en las acciones y decisiones de otros en una organización.,chatgpt,9
-2,2,"Las principales teorías incluyen la teoría de la dependencia de recursos, teoría del intercambio social, teoría del poder relacional y la teoría de la base de poder de French y Raven.",chatgpt,9
-3,3,"El poder formal establece la jerarquía y autoridad oficial, mientras que el poder informal se basa en redes personales e influencia interpersonal.",chatgpt,9
-4,4,"El ejercicio del poder debe ser justo y responsable, evitando abusos y favoreciendo la equidad y transparencia.",chatgpt,9
-5,5,"Fomentar la comunicación abierta, establecer límites claros y promover la participación colaborativa.",chatgpt,9
-6,6,"Un buen líder es visionario, comunicativo, empático y capaz de inspirar y motivar a su equipo.",chatgpt,9
-7,7,"El liderazgo autocrático centraliza decisiones, el democrático promueve la participación, y el laissez-faire delega la mayoría de las decisiones.",chatgpt,9
-8,8,"El liderazgo transformacional motiva e inspira cambios positivos, mejorando la innovación y el compromiso organizacional.",chatgpt,9
-9,9,"Los rasgos personales, como la empatía y la determinación, moldean cómo un líder interactúa y dirige a su equipo.",chatgpt,9
-10,10,"Los líderes enfrentan desafíos como la gestión de la diversidad cultural, comunicación efectiva y adaptación a cambios rápidos.",chatgpt,9
-11,11,"El comportamiento asertivo implica expresar opiniones y necesidades de manera clara y respetuosa, crucial para una comunicación efectiva.",chatgpt,9
-12,12,"Ser asertivo es expresar necesidades respetuosamente, ser pasivo es evitar la confrontación y ser agresivo es imponer sin consideración.",chatgpt,9
-13,13,"A través de la práctica de la comunicación clara, la auto-reflexión y el entrenamiento en habilidades interpersonales",chatgpt,9
-14,14,"El miedo al rechazo, la baja autoestima y la falta de habilidades de comunicación.",chatgpt,9
-15,15,"La empatía permite entender y considerar las perspectivas de otros, facilitando una comunicación respetuosa y efectiva.",chatgpt,9
-16,16,"Las formas de trabajo flexibles permiten horarios y ubicaciones de trabajo adaptables, beneficiando la productividad y el equilibrio entre vida laboral y personal.",chatgpt,9
-17,17,"El trabajo presencial ocurre en la oficina, el remoto desde cualquier lugar y el híbrido combina ambos; cada uno afecta la productividad y bienestar de distintas maneras.",chatgpt,9
-18,18,"Desafíos incluyen la gestión de la comunicación, mantener la cohesión del equipo y asegurar la productividad.",chatgpt,9
-19,19,"Las TIC permiten la comunicación en tiempo real, la gestión de proyectos y el acceso compartido a recursos desde cualquier ubicación.",chatgpt,9
-20,20,"Las tendencias incluyen el aumento del trabajo remoto, el uso de inteligencia artificial y la adopción de modelos de trabajo más flexibles.",chatgpt,9
-21,21,"La misión, visión, valores y principios guían la cultura organizacional y determinan el comportamiento y las prácticas internas.",chatgpt,9
-22,22,"Alinear la filosofía organizacional con los objetivos estratégicos asegura coherencia y dirección clara, mejorando el desempeño y éxito a largo plazo.",chatgpt,9
-23,23,"A través de la comunicación interna continua, programas de capacitación y la incorporación de la filosofía en políticas y prácticas diarias.",chatgpt,9
-24,24,"Los valores y la ética forman la base de la filosofía organizacional, guiando las decisiones y acciones responsables y sostenibles.",chatgpt,9
-25,25,"Una filosofía organizacional sólida fomenta un sentido de propósito y compromiso, diferenciando a la empresa y construyendo una reputación positiva.",chatgpt,9
-26,1,El poder es la habilidad para influir en las decisiones y comportamientos de otros dentro de una organización.,gemini,7
-27,2,"Las teorías clave incluyen la teoría de la dependencia de recursos, la teoría del intercambio social, la teoría del poder relacional y la teoría de French y Raven sobre bases de poder.",gemini,7
-28,3,"El poder formal estructura la autoridad oficial y las jerarquías, mientras que el poder informal surge de relaciones personales e influencia social.",gemini,7
-29,4,El poder debe ejercerse con responsabilidad y equidad para evitar abusos y promover la justicia y la transparencia.,gemini,7
-30,5,"Fomentar una comunicación abierta, establecer límites claros y promover un ambiente colaborativo son estrategias clave.",gemini,7
-31,6,"Un buen líder es visionario, comunicativo, empático y capaz de motivar e inspirar a su equipo.",gemini,7
-32,7,"El liderazgo autocrático centraliza las decisiones, el democrático involucra a los miembros del equipo en las decisiones y el laissez-faire permite autonomía total.",gemini,7
-33,8,"El liderazgo transformacional motiva cambios positivos, mejora la innovación y el compromiso organizacional.",gemini,7
-34,9,"Los rasgos personales, como la empatía y la determinación, moldean cómo un líder interactúa y dirige a su equipo.",gemini,7
-35,10,"Los líderes enfrentan desafíos como la gestión de la diversidad cultural, comunicación efectiva y adaptación a cambios rápidos.",gemini,7
-36,11,"El comportamiento asertivo implica expresar opiniones y necesidades de manera clara y respetuosa, crucial para una comunicación efectiva.",gemini,7
-37,12,"Ser asertivo es expresar necesidades respetuosamente, ser pasivo es evitar la confrontación y ser agresivo es imponer sin consideración.",gemini,7
-38,13,"A través de la práctica de la comunicación clara, la auto-reflexión y el entrenamiento en habilidades interpersonales.",gemini,7
-39,14,"El miedo al rechazo, la baja autoestima y la falta de habilidades de comunicación.",gemini,7
-40,15,"La empatía permite entender y considerar las perspectivas de otros, facilitando una comunicación respetuosa y efectiva.",gemini,7
-41,16,"Las formas de trabajo flexibles permiten horarios y ubicaciones de trabajo adaptables, beneficiando la productividad y el equilibrio entre vida laboral y personal.",gemini,7
-42,17,"El trabajo presencial ocurre en la oficina, el remoto desde cualquier lugar y el híbrido combina ambos; cada uno afecta la productividad y bienestar de distintas maneras.",gemini,7
-43,18,"Desafíos incluyen la gestión de la comunicación, mantener la cohesión del equipo y asegurar la productividad.",gemini,7
-44,19,"Las TIC permiten la comunicación en tiempo real, la gestión de proyectos y el acceso compartido a recursos desde cualquier ubicación.",gemini,7
-45,20,"Las tendencias incluyen el aumento del trabajo remoto, el uso de inteligencia artificial y la adopción de modelos de trabajo más flexibles.",gemini,7
-46,21,"La misión, visión, valores y principios guían la cultura organizacional y determinan el comportamiento y las prácticas internas.",gemini,7
-47,22,"Alinear la filosofía organizacional con los objetivos estratégicos asegura coherencia y dirección clara, mejorando el desempeño y éxito a largo plazo.",gemini,7
-48,23,"A través de la comunicación interna continua, programas de capacitación y la incorporación de la filosofía en políticas y prácticas diarias.",gemini,7
-49,24,"Los valores y la ética forman la base de la filosofía organizacional, guiando las decisiones y acciones responsables y sostenibles.",gemini,7
-50,25,"Una filosofía organizacional sólida fomenta un sentido de propósito y compromiso, diferenciando a la empresa y construyendo una reputación positiva.",gemini,7
-51,1,"El poder en las relaciones organizacionales se refiere a la capacidad de influir en las decisiones, comportamientos y acciones de otros miembros dentro de la estructura de la empresa",copilot,9
-52,2,"Las teorías principales sobre el poder incluyen la teoría de la dependencia de recursos, que destaca el control sobre recursos críticos; la teoría del intercambio social, que se centra en las relaciones de reciprocidad; la teoría del poder relacional, que ve el poder como dinámico en las interacciones; y la teoría de French y Raven, que clasifica el poder en legítimo, de recompensa, coercitivo, referente y experto.",copilot,9
-53,3,"El poder formal se basa en la posición jerárquica y las responsabilidades oficiales, mientras que el poder informal se basa en la influencia personal y las redes sociales dentro de la organización.",copilot,9
-54,4,"El ejercicio del poder implica responsabilidades éticas como evitar el abuso de autoridad, fomentar la equidad y la justicia, y actuar con transparencia y responsabilidad.",copilot,9
-55,5,"Gestionar el poder eficazmente implica promover una comunicación clara, establecer límites y roles definidos, y fomentar una cultura de colaboración y participación equitativa.",copilot,9
-56,6,"Un buen líder se caracteriza por tener una visión clara, habilidades comunicativas efectivas, empatía y la capacidad de inspirar y motivar a su equipo hacia objetivos comunes.",copilot,9
-57,7,"El liderazgo autocrático se centra en la toma de decisiones unilaterales, el democrático fomenta la participación del equipo en la toma de decisiones, y el laissez-faire delega la autoridad permitiendo autonomía en el trabajo.",copilot,9
-58,8,"El liderazgo transformacional es crucial para el desarrollo organizacional porque inspira cambios positivos, fomenta la innovación y aumenta el compromiso y la moral de los empleados.",copilot,9
-59,9,"Los rasgos personales, como la empatía, la integridad y la resiliencia, influyen en cómo un líder interactúa con su equipo y toma decisiones, afectando su estilo de liderazgo.",copilot,9
-60,10,"En un entorno empresarial global y diverso, los líderes enfrentan desafíos como manejar diferencias culturales, comunicarse efectivamente a través de fronteras, y adaptarse a rápidos cambios tecnológicos y de mercado.",copilot,9
-61,11,"El comportamiento asertivo es la capacidad de expresar pensamientos y necesidades de manera clara y respetuosa, lo cual es esencial para mantener relaciones interpersonales saludables y efectivas.",copilot,9
-62,12,"La asertividad implica comunicar respetuosamente, la pasividad evita confrontaciones y cede ante los demás, mientras que la agresividad impone las propias necesidades sin consideración por los otros.",copilot,9
-63,13,"Desarrollar habilidades asertivas en el trabajo se puede lograr mediante la práctica de una comunicación clara y directa, la auto-reflexión y la formación en habilidades interpersonales.",copilot,9
-64,14,"Las barreras comunes para la asertividad incluyen el temor al rechazo, la baja autoestima y la falta de habilidades para comunicarse efectivamente.",copilot,9
-65,15,"La empatía es fundamental en la práctica de la asertividad, ya que permite comprender y valorar las perspectivas y sentimientos de los demás, facilitando una comunicación más efectiva y respetuosa.",copilot,9
-66,16,"Las formas de trabajo flexibles, como horarios ajustables y teletrabajo, benefician tanto a empleadores como a empleados al mejorar la productividad y equilibrar la vida laboral y personal.",copilot,9
-67,17,"El trabajo presencial se realiza en la oficina, el remoto desde cualquier ubicación fuera de la oficina y el híbrido combina ambos; cada modalidad afecta de manera diferente la productividad y el bienestar de los empleados.",copilot,9
-68,18,"Implementar modelos de trabajo a distancia presenta desafíos como mantener la comunicación efectiva, cohesión del equipo y asegurar la productividad de los empleados dispersos.",copilot,9
-69,19,"Las tecnologías de la información y comunicación facilitan la colaboración en equipos distribuidos mediante herramientas para comunicación en tiempo real, gestión de proyectos y acceso compartido a documentos y recursos.",copilot,9
-70,20,"Las tendencias emergentes en las formas de trabajo incluyen el aumento del trabajo remoto, el uso de inteligencia artificial para tareas rutinarias y la adopción de modelos de trabajo más flexibles y adaptativos.",copilot,9
-71,21,"La filosofía organizacional está compuesta por la misión, visión, valores y principios de la empresa, y estos elementos influyen profundamente en la cultura corporativa y las prácticas diarias.",copilot,9
-72,22,Alinear la filosofía organizacional con los objetivos estratégicos es vital para asegurar que todos los esfuerzos y decisiones de la empresa estén dirigidos hacia metas comunes y coherentes.,copilot,9
-73,23,"Las empresas pueden comunicar su filosofía organizacional a través de canales internos como reuniones, boletines informativos y entrenamientos, así como mediante la integración de estos principios en sus políticas y prácticas diarias.",copilot,9
-74,24,"La ética y los valores son fundamentales en la filosofía organizacional, ya que guían las decisiones y acciones hacia comportamientos responsables y sostenibles a largo plazo.",copilot,9
-75,25,"Una filosofía organizacional sólida contribuye al éxito a largo plazo de una empresa al crear un sentido compartido de propósito, fomentar el compromiso de los empleados y construir una reputación positiva en el mercado.",copilot,9
-76,1,"El poder se define como la capacidad de influir en las decisiones y acciones de otros, a través de estructuras formales o informales.",llama,8
-77,2,"Las principales teorías son el marxismo, la teoría de la dependencia, y la teoría de la autoridad.",llama,8
-78,3,"El poder formal se ejerce a través de las estructuras y roles formales, mientras que el poder informal se ejerce a través de redes y relaciones personales.",llama,8
-79,4,"El ejercicio del poder puede tener implicaciones éticas, como la posible discriminación, chantaje o abuso de autoridad.",llama,8
-80,5,"Se pueden emplear estrategias como la transparencia, la comunicación efectiva y el liderazgo ético.",llama,8
-81,6,"Un buen líder es aquel que inspira, motiva y guía a sus seguidores, y se adapta a las necesidades de su equipo.",llama,8
-82,7,"El estilo autocrático se caracteriza por una decisión unilateral, el estilo democrático por la toma de decisiones conjunta, y el estilo laissez-faire por la delegación y el crecimiento de responsabilidades.",llama,8
-83,8,"El liderazgo transformacional implica inspirar y motivar a los liderados para lograr objetivos comunes, a través de la comunicación efectiva y la empatía.",llama,8
-84,9,"Los rasgos personales, la formación y la experiencia influyen en el estilo de liderazgo de un individuo.",llama,8
-85,10,"Los líderes deben adaptarse a las necesidades de su equipo y empresa, y gestionar la diversidad y la globalización.",llama,8
-86,11,"El comportamiento asertivo se caracteriza por expresar consecuentemente propios pensamientos, sentimientos y necesidades de manera respetuosa.",llama,8
-87,12,"La empatía ayuda a entender y comprender la perspectiva de los demás, lo que facilita la resolución de conflictos.",llama,8
-88,13,"Las formas de trabajo flexibles se refieren a la flexibilidad en el horario, lugar y modalidad de trabajo.",llama,8
-89,14,La comunicación efectiva y la gestión del tiempo y la productividad pueden ser desafíos importantes.,llama,8
-90,15,Las tecnologías de la información y comunicación pueden facilitar la colaboración a través de herramientas de comunicación y colaboración en línea.,llama,8
-91,16,"Las tendencias emergentes incluyen la flexibilidad, el teletrabajo y el trabajo en equipo distribuido.",llama,8
-92,17,"La filosofía organizacional se refiere a la misión, visión y valores de una empresa.",llama,8
-93,18,La alineación es esencial para lograr objetivos comunes y mejorar la productividad y el bienestar de los empleados.,llama,8
-94,19,"La comunicación efectiva se logra a través de mensajes claros, visibles y accesibles.",llama,8
-95,20,La ética y los valores son fundamentales para la elaboración de una filosofía organizacional sólida y ética.,llama,8
-96,21,"La filosofía organizacional está compuesta por los valores, creencias y principios que guían la empresa y definen su visión, misión y objetivos. Esto influye en la cultura corporativa al crear un entorno laboral coherente y transparente, lo que motiva a los empleados y aumenta la satisfacción en el trabajo.",llama,8
-97,22,La importancia de alinear la filosofía organizacional con los objetivos estratégicos reside en que un objetivo claro y compartido entre todos los niveles de la empresa facilita la toma de decisiones y mejorar la eficacia en la implementación de estrategias.,llama,8
-98,23,"Las empresas pueden comunicar efectivamente su filosofía organizacional a empleados y otras partes interesadas a través de variados canales, como reuniones, informes anuales, redes sociales, reuniones internas y propuesta de preguntas y respuestas.",llama,8
-99,24,"La ética y los valores tienen un papel fundamental en la elaboración de la filosofía organizacional, ya que les da dirección y significado a la empresa, y sirve como guía para tomar decisiones y evaluar los resultados.",llama,8
-100,25,"Una filosofía organizacional sólida puede contribuir al éxito a largo plazo de una empresa en un mercado competitivo al crear una cultura de compromiso, responsabilidad y trabajo en equipo, lo que atrae y retiene a talentos calificados, y fortalece la marca y la reputación de la empresa.",llama,8
-101,1,El poder en las relaciones sociales y organizacionales se refiere a la capacidad de una persona o grupo para influir en los demás.,gema,8
-102,2,"Las principales teorías que explican el concepto de poder incluyen el poder como recurso, el poder como relación y el poder como influencia.",gema,8
-103,3,"El poder formal se deriva de la posición de autoridad, mientras que el poder informal se basa en las relaciones y las redes.",gema,8
-104,4,"Las implicaciones éticas del ejercicio del poder incluyen la justicia, la transparencia y la responsabilidad.",gema,8
-105,5,"Las estrategias para gestionar el poder incluyen la comunicación efectiva, la construcción de relaciones y el desarrollo de habilidades de liderazgo.",gema,8
-106,6,"Las características principales de un buen líder incluyen la capacidad de comunicación, la capacidad de toma de decisiones y la capacidad de motivantes a los demás.",gema,8
-107,7,"Los estilos de liderazgo autocrático enfatizan el control y la disciplina, mientras que los estilos democráticos enfatizan la participación y el consenso. El estilo Laissez-faire enfatiza la autonomía y la responsabilidad individual.",gema,8
-108,8,"El liderazgo transformacional es importante para el desarrollo organizacional al fomentar la innovación, la creatividad y el compromiso",gema,8
-109,9,"Los rasgos personales, como la capacidad de liderazgo, la resiliencia y la capacidad de trabajo en equipo, pueden influir en el estilo de liderazgo.",gema,8
-110,10,"Los desafíos comunes que enfrentan los líderes en un entorno empresarial globalizado y diverso incluyen la diversidad cultural, las diferentes culturas organizativas y las políticas comerciales.",gema,8
-111,11,El comportamiento asertivo es la capacidad de comunicar y defender sus ideas y derechos de manera efectiva.,gema,8
-112,12,"Ser asertivo es más que simplemente ser agresivo o pasivo. Es sobre hablar de manera clara y directamente, pero con respeto.",gema,8
-113,13,Las habilidades asertivas se pueden desarrollar a través de la práctica y la formación.,gema,8
-114,14,"Las barreras comunes para la expresión asertiva incluyen el miedo al rechazo, la falta de confianza y las normas organizativas.",gema,8
-115,15,"La empatía es importante en la práctica de la asertividad, ya que ayuda a desarrollar relaciones más fuertes y a tomar decisiones más informadas.",gema,8
-116,16,"Las formas flexibles de trabajo incluyen el trabajo remoto, híbrido y presencial. Sus beneficios para los empleadores incluyen mayor flexibilidad y productividad, mientras que para los empleados incluyen un mejor equilibrio entre la vida y el trabajo y un mayor control sobre su tiempo.",gema,8
-117,17,"El trabajo remoto es completamente en línea, el trabajo híbrido es una mezcla de presencial y remoto, mientras que el trabajo presencial es en la oficina o en un espacio físico específico. El trabajo remoto puede aumentar la productividad, mientras que el trabajo presencial puede mejorar la colaboración.",gema,8
-118,18,Desafíos para implementar modelos de trabajo a distancia incluyen la necesidad de establecer políticas y procesos claros para la comunicación y la colaboración.,gema,8
-119,19,"Las tecnologías de la información y comunicación pueden facilitar la colaboración en equipos distribuidos mediante plataformas de videoconferencia, herramientas de comunicación grupal y sistemas de gestión de proyectos digitales.",gema,8
-120,20,"Las tendencias emergentes en las formas de trabajo incluyen el trabajo remoto flexible, la gamificación del trabajo y la inteligencia artificial en la gestión del trabajo.",gema,8
-121,21,La filosofía organizacional es una conjunto de principios y valores que guían las acciones y decisiones de una empresa.,gema,8
-122,22,Alinear la filosofía organizacional con los objetivos estratégicos de una empresa aumenta la eficiencia y la eficacia.,gema,8
-123,23,Las empresas pueden comunicar eficazmente su filosofía organizacional a los empleados y otras partes interesadas a través de la comunicación clara y transparente.,gema,8
-124,24,"La ética y los valores son esenciales para la elaboración de la filosofía organizacional de una empresa, ya que proporcionan principios básicos para tomar decisiones.",gema,8
-125,25,"Una filosofía organizacional sólida puede contribuir al éxito a largo plazo de una empresa al fomentar la visión, la misión y los valores de la empresa.",gema,8
-126,1,"El poder en el contexto de las relaciones sociales y organizacionales se define como la capacidad de influir en las acciones, opiniones o decisiones de otros.",nixter,9
-127,2,"Las principales teorías que explican el concepto de poder son la teoría de la dependencia, la teoría de los recursos y la teoría de los intercambios.",nixter,9
-128,3,"El poder formal se refiere a la autoridad otorgada por la posición jerárquica en una organización, mientras que el poder informal se basa en las relaciones y habilidades personales. Ambos tipos de poder influyen en la estructura organizacional al afectar el proceso de toma de decisiones y el cumplimiento de políticas y procedimientos.",nixter,9
-129,4,"El ejercicio del poder en diferentes contextos puede tener implicaciones éticas si se abusa del poder, se marginaliza a ciertos grupos o se socavan los derechos y libertades individuales.",nixter,9
-130,5,"Para gestionar el poder de manera efectiva en un entorno laboral, se pueden emplear estrategias como construir relaciones sólidas, comunicar claramente expectativas y objetivos, fomentar el respeto y la colaboración, y establecer procesos de toma de decisiones transparentes.",nixter,9
-131,6,"Las características principales de un buen líder son la integridad, la comunicación efectiva, la capacidad de motivar y empoderar a otros, y la visión estratégica.",nixter,9
-132,7,"El estilo de liderazgo autocrático se basa en la toma de decisiones unilateral, el democrático en la participación y colaboración de todos los miembros del equipo, y el laissez-faire en la delegación total de responsabilidades y autonomía.",nixter,9
-133,8,"El liderazgo transformacional es importante en el desarrollo organizacional ya que enfatiza la inspiración, el empoderamiento y el crecimiento personal y profesional de los miembros del equipo.",nixter,9
-134,9,"Los rasgos personales que influyen en el estilo de liderazgo de un individuo incluyen la personalidad, la experiencia, la educación y los valores.",nixter,9
-135,10,"Algunos desafíos comunes que enfrentan los líderes en un entorno empresarial globalizado y diverso son la comunicación intercultural, la gestión de la diversidad y la inclusión, y la adaptación a cambios constantes y rápidos en el mercado.",nixter,9
-136,11,"El comportamiento asertivo se refiere a la capacidad de expresar opiniones, sentimientos y necesidades de manera clara, directa y respetuosa. Es importante en la comunicación interpersonal porque promueve la confianza, la colaboración y la resolución efectiva de conflictos.",nixter,9
-137,12,"La asertividad se diferencia de la pasividad, que implica no expresar opiniones o necesidades, y de la agresividad, que implica imponer opiniones o necesidades a expensas de otros.",nixter,9
-138,13,"Se pueden desarrollar habilidades asertivas en un entorno laboral a través de prácticas como el entrenamiento en comunicación efectiva, el coaching de liderazgo y el desarrollo de habilidades interpersonales.",nixter,9
-139,14,"Algunas barreras comunes que impiden a las personas expresarse de manera asertiva incluyen la falta de confianza en sí mismas, el miedo al rechazo o al conflicto, y la falta de habilidades comunicativas efectivas.",nixter,9
-140,15,La empatía juega un papel importante en la práctica de la asertividad ya que permite entender y respetar las perspectivas y necesidades de otros mientras se expresan las propias.,nixter,9
-141,16,"Las formas de trabajo flexibles se refieren a arreglos de trabajo no tradicionales que ofrecen flexibilidad en términos de horario, lugar y estructura de trabajo. Sus beneficios incluyen una mayor satisfacción laboral, una mejor conciliación entre trabajo y vida personal, y una mayor productividad y eficiencia.",nixter,9
-142,17,"El trabajo presencial se realiza en las instalaciones de la empresa, lo que fomenta el trabajo en equipo y la comunicación cara a cara. El trabajo remoto permite a los empleados trabajar desde cualquier lugar con conexión a internet, pero puede generar sentimientos de aislamiento. El trabajo híbrido combina ambos enfoques, pero requiere una buena gestión y comunicación. La productividad puede aumentar con el trabajo remoto o híbrido al reducir las distracciones, pero el bienestar emocional puede verse afectado por la falta de interacción social y la dificultad para desconectar.",nixter,9
-143,18,"Algunos desafíos al implementar modelos de trabajo a distancia incluyen la supervisión remota, la colaboración en equipo, la seguridad de la información, la comunicación asincrónica y la integración de nuevos empleados. La falta de interacción personal puede afectar el clima laboral y el compromiso de los trabajadores.",nixter,9
-144,19,"Las tecnologías de la información y comunicación, como las plataformas virtuales de colaboración y las herramientas de comunicación en tiempo real, facilitan el intercambio de ideas, la gestión de proyectos y el seguimiento del progreso en equipos distribuidos.",nixter,9
-145,20,"Las tendencias emergentes en las formas de trabajo incluyen el trabajo gig, el teletrabajo, la automatización, el aprendizaje permanente, la diversidad e inclusión y los entornos de trabajo centrados en el bienestar. Estas tendencias transforman el mundo laboral promoviendo nuevas habilidades, estructuras organizativas y modelos de liderazgo.",nixter,9
-146,21,"Los elementos que componen la filosofía organizacional de una empresa incluyen la visión, misión, valores, estrategia, estructura y climas laboral. Estos elementos influyen en la cultura corporativa al dar forma a las actitudes, creencias y comportamientos de los empleados y líderes.",nixter,9
-147,22,"La alineación de la filosofía organizacional con los objetivos estratégicos de una empresa es crucial para garantizar que las decisiones y acciones de la organización estén orientadas hacia el éxito a largo plazo. Una filosofía organizacional sólida guía las prioridades y recursos de la empresa, fomenta la coherencia y el compromiso de los empleados y mejora el desempeño general.",nixter,9
-148,23,"Las empresas pueden comunicar efectivamente su filosofía organizacional a empleados y otras partes interesadas a través de diversos canales de comunicación, como reuniones, capacitaciones, documentos escritos, redes sociales y eventos corporativos. La comunicación abierta y honesta refuerza la confianza y el compromiso de los stakeholders.",nixter,9
-149,24,"La ética y los valores desempeñan un papel fundamental en la elaboración de la filosofía organizacional, ya que transmiten los principios y creencias fundamentales que rigen la toma de decisiones y las acciones de la empresa. Estos valores influyen en la cultura corporativa y la reputación de la empresa, y ayudan a atraer y retener talento.",nixter,9
-150,25,"Una filosofía organizacional sólida contribuye al éxito a largo plazo de una empresa en un mercado competitivo al proporcionar una dirección clara y consistente, fomentar la innovación y la adaptabilidad, promover un entorno de trabajo positivo y motivador, y reforzar la confianza y credibilidad de los stakeholders.",nixter,9
+1,1,El poder es la capacidad de influir en las acciones y decisiones de otros en una organización.,chatgpt,bueno
+2,2,"Las principales teorías incluyen la teoría de la dependencia de recursos, teoría del intercambio social, teoría del poder relacional y la teoría de la base de poder de French y Raven.",chatgpt,bueno
+3,3,"El poder formal establece la jerarquía y autoridad oficial, mientras que el poder informal se basa en redes personales e influencia interpersonal.",chatgpt,regular
+4,4,"El ejercicio del poder debe ser justo y responsable, evitando abusos y favoreciendo la equidad y transparencia.",chatgpt,bueno
+5,5,"Fomentar la comunicación abierta, establecer límites claros y promover la participación colaborativa.",chatgpt,regular
+6,6,"Un buen líder es visionario, comunicativo, empático y capaz de inspirar y motivar a su equipo.",chatgpt,malo
+7,7,"El liderazgo autocrático centraliza decisiones, el democrático promueve la participación, y el laissez-faire delega la mayoría de las decisiones.",chatgpt,bueno
+8,8,"El liderazgo transformacional motiva e inspira cambios positivos, mejorando la innovación y el compromiso organizacional.",chatgpt,regular
+9,9,"Los rasgos personales, como la empatía y la determinación, moldean cómo un líder interactúa y dirige a su equipo.",chatgpt,bueno
+10,10,"Los líderes enfrentan desafíos como la gestión de la diversidad cultural, comunicación efectiva y adaptación a cambios rápidos.",chatgpt,regular
+11,11,"El comportamiento asertivo implica expresar opiniones y necesidades de manera clara y respetuosa, crucial para una comunicación efectiva.",chatgpt,bueno
+12,12,"Ser asertivo es expresar necesidades respetuosamente, ser pasivo es evitar la confrontación y ser agresivo es imponer sin consideración.",chatgpt,bueno
+13,13,"A través de la práctica de la comunicación clara, la auto-reflexión y el entrenamiento en habilidades interpersonales",chatgpt,bueno
+14,14,"El miedo al rechazo, la baja autoestima y la falta de habilidades de comunicación.",chatgpt,bueno
+15,15,"La empatía permite entender y considerar las perspectivas de otros, facilitando una comunicación respetuosa y efectiva.",chatgpt,regular
+16,16,"Las formas de trabajo flexibles permiten horarios y ubicaciones de trabajo adaptables, beneficiando la productividad y el equilibrio entre vida laboral y personal.",chatgpt,regular
+17,17,"El trabajo presencial ocurre en la oficina, el remoto desde cualquier lugar y el híbrido combina ambos; cada uno afecta la productividad y bienestar de distintas maneras.",chatgpt,bueno
+18,18,"Desafíos incluyen la gestión de la comunicación, mantener la cohesión del equipo y asegurar la productividad.",chatgpt,regular
+19,19,"Las TIC permiten la comunicación en tiempo real, la gestión de proyectos y el acceso compartido a recursos desde cualquier ubicación.",chatgpt,bueno
+20,20,"Las tendencias incluyen el aumento del trabajo remoto, el uso de inteligencia artificial y la adopción de modelos de trabajo más flexibles.",chatgpt,bueno
+21,21,"La misión, visión, valores y principios guían la cultura organizacional y determinan el comportamiento y las prácticas internas.",chatgpt,regular
+22,22,"Alinear la filosofía organizacional con los objetivos estratégicos asegura coherencia y dirección clara, mejorando el desempeño y éxito a largo plazo.",chatgpt,bueno
+23,23,"A través de la comunicación interna continua, programas de capacitación y la incorporación de la filosofía en políticas y prácticas diarias.",chatgpt,regular
+24,24,"Los valores y la ética forman la base de la filosofía organizacional, guiando las decisiones y acciones responsables y sostenibles.",chatgpt,regular
+25,25,"Una filosofía organizacional sólida fomenta un sentido de propósito y compromiso, diferenciando a la empresa y construyendo una reputación positiva.",chatgpt,bueno
+26,1,El poder es la habilidad para influir en las decisiones y comportamientos de otros dentro de una organización.,gemini,bueno
+27,2,"Las teorías clave incluyen la teoría de la dependencia de recursos, la teoría del intercambio social, la teoría del poder relacional y la teoría de French y Raven sobre bases de poder.",gemini,bueno
+28,3,"El poder formal estructura la autoridad oficial y las jerarquías, mientras que el poder informal surge de relaciones personales e influencia social.",gemini,regular
+29,4,El poder debe ejercerse con responsabilidad y equidad para evitar abusos y promover la justicia y la transparencia.,gemini,regular
+30,5,"Fomentar una comunicación abierta, establecer límites claros y promover un ambiente colaborativo son estrategias clave.",gemini,bueno
+31,6,"Un buen líder es visionario, comunicativo, empático y capaz de motivar e inspirar a su equipo.",gemini,bueno
+32,7,"El liderazgo autocrático centraliza las decisiones, el democrático involucra a los miembros del equipo en las decisiones y el laissez-faire permite autonomía total.",gemini,bueno
+33,8,"El liderazgo transformacional motiva cambios positivos, mejora la innovación y el compromiso organizacional.",gemini,regular
+34,9,"Los rasgos personales, como la empatía y la determinación, moldean cómo un líder interactúa y dirige a su equipo.",gemini,regular
+35,10,"Los líderes enfrentan desafíos como la gestión de la diversidad cultural, comunicación efectiva y adaptación a cambios rápidos.",gemini,bueno
+36,11,"El comportamiento asertivo implica expresar opiniones y necesidades de manera clara y respetuosa, crucial para una comunicación efectiva.",gemini,bueno
+37,12,"Ser asertivo es expresar necesidades respetuosamente, ser pasivo es evitar la confrontación y ser agresivo es imponer sin consideración.",gemini,regular
+38,13,"A través de la práctica de la comunicación clara, la auto-reflexión y el entrenamiento en habilidades interpersonales.",gemini,beuno
+39,14,"El miedo al rechazo, la baja autoestima y la falta de habilidades de comunicación.",gemini,bueno
+40,15,"La empatía permite entender y considerar las perspectivas de otros, facilitando una comunicación respetuosa y efectiva.",gemini,bueno
+41,16,"Las formas de trabajo flexibles permiten horarios y ubicaciones de trabajo adaptables, beneficiando la productividad y el equilibrio entre vida laboral y personal.",gemini,bueno
+42,17,"El trabajo presencial ocurre en la oficina, el remoto desde cualquier lugar y el híbrido combina ambos; cada uno afecta la productividad y bienestar de distintas maneras.",gemini,bueno
+43,18,"Desafíos incluyen la gestión de la comunicación, mantener la cohesión del equipo y asegurar la productividad.",gemini,regular
+44,19,"Las TIC permiten la comunicación en tiempo real, la gestión de proyectos y el acceso compartido a recursos desde cualquier ubicación.",gemini,bueno
+45,20,"Las tendencias incluyen el aumento del trabajo remoto, el uso de inteligencia artificial y la adopción de modelos de trabajo más flexibles.",gemini,bueno
+46,21,"La misión, visión, valores y principios guían la cultura organizacional y determinan el comportamiento y las prácticas internas.",gemini,regular
+47,22,"Alinear la filosofía organizacional con los objetivos estratégicos asegura coherencia y dirección clara, mejorando el desempeño y éxito a largo plazo.",gemini,bueno
+48,23,"A través de la comunicación interna continua, programas de capacitación y la incorporación de la filosofía en políticas y prácticas diarias.",gemini,regular
+49,24,"Los valores y la ética forman la base de la filosofía organizacional, guiando las decisiones y acciones responsables y sostenibles.",gemini,malo
+50,25,"Una filosofía organizacional sólida fomenta un sentido de propósito y compromiso, diferenciando a la empresa y construyendo una reputación positiva.",gemini,malo
+51,1,"El poder en las relaciones organizacionales se refiere a la capacidad de influir en las decisiones, comportamientos y acciones de otros miembros dentro de la estructura de la empresa",copilot,regular
+52,2,"Las teorías principales sobre el poder incluyen la teoría de la dependencia de recursos, que destaca el control sobre recursos críticos; la teoría del intercambio social, que se centra en las relaciones de reciprocidad; la teoría del poder relacional, que ve el poder como dinámico en las interacciones; y la teoría de French y Raven, que clasifica el poder en legítimo, de recompensa, coercitivo, referente y experto.",copilot,regular
+53,3,"El poder formal se basa en la posición jerárquica y las responsabilidades oficiales, mientras que el poder informal se basa en la influencia personal y las redes sociales dentro de la organización.",copilot,bueno
+54,4,"El ejercicio del poder implica responsabilidades éticas como evitar el abuso de autoridad, fomentar la equidad y la justicia, y actuar con transparencia y responsabilidad.",copilot,regular
+55,5,"Gestionar el poder eficazmente implica promover una comunicación clara, establecer límites y roles definidos, y fomentar una cultura de colaboración y participación equitativa.",copilot,bueno
+56,6,"Un buen líder se caracteriza por tener una visión clara, habilidades comunicativas efectivas, empatía y la capacidad de inspirar y motivar a su equipo hacia objetivos comunes.",copilot,bueno
+57,7,"El liderazgo autocrático se centra en la toma de decisiones unilaterales, el democrático fomenta la participación del equipo en la toma de decisiones, y el laissez-faire delega la autoridad permitiendo autonomía en el trabajo.",copilot,malo
+58,8,"El liderazgo transformacional es crucial para el desarrollo organizacional porque inspira cambios positivos, fomenta la innovación y aumenta el compromiso y la moral de los empleados.",copilot,regular
+59,9,"Los rasgos personales, como la empatía, la integridad y la resiliencia, influyen en cómo un líder interactúa con su equipo y toma decisiones, afectando su estilo de liderazgo.",copilot,regular
+60,10,"En un entorno empresarial global y diverso, los líderes enfrentan desafíos como manejar diferencias culturales, comunicarse efectivamente a través de fronteras, y adaptarse a rápidos cambios tecnológicos y de mercado.",copilot,bueno
+61,11,"El comportamiento asertivo es la capacidad de expresar pensamientos y necesidades de manera clara y respetuosa, lo cual es esencial para mantener relaciones interpersonales saludables y efectivas.",copilot,bueno
+62,12,"La asertividad implica comunicar respetuosamente, la pasividad evita confrontaciones y cede ante los demás, mientras que la agresividad impone las propias necesidades sin consideración por los otros.",copilot,bueno
+63,13,"Desarrollar habilidades asertivas en el trabajo se puede lograr mediante la práctica de una comunicación clara y directa, la auto-reflexión y la formación en habilidades interpersonales.",copilot,bueno
+64,14,"Las barreras comunes para la asertividad incluyen el temor al rechazo, la baja autoestima y la falta de habilidades para comunicarse efectivamente.",copilot,bueno
+65,15,"La empatía es fundamental en la práctica de la asertividad, ya que permite comprender y valorar las perspectivas y sentimientos de los demás, facilitando una comunicación más efectiva y respetuosa.",copilot,bueno
+66,16,"Las formas de trabajo flexibles, como horarios ajustables y teletrabajo, benefician tanto a empleadores como a empleados al mejorar la productividad y equilibrar la vida laboral y personal.",copilot,regular
+67,17,"El trabajo presencial se realiza en la oficina, el remoto desde cualquier ubicación fuera de la oficina y el híbrido combina ambos; cada modalidad afecta de manera diferente la productividad y el bienestar de los empleados.",copilot,bueno
+68,18,"Implementar modelos de trabajo a distancia presenta desafíos como mantener la comunicación efectiva, cohesión del equipo y asegurar la productividad de los empleados dispersos.",copilot,bueno
+69,19,"Las tecnologías de la información y comunicación facilitan la colaboración en equipos distribuidos mediante herramientas para comunicación en tiempo real, gestión de proyectos y acceso compartido a documentos y recursos.",copilot,bueno
+70,20,"Las tendencias emergentes en las formas de trabajo incluyen el aumento del trabajo remoto, el uso de inteligencia artificial para tareas rutinarias y la adopción de modelos de trabajo más flexibles y adaptativos.",copilot,bueno
+71,21,"La filosofía organizacional está compuesta por la misión, visión, valores y principios de la empresa, y estos elementos influyen profundamente en la cultura corporativa y las prácticas diarias.",copilot,regular
+72,22,Alinear la filosofía organizacional con los objetivos estratégicos es vital para asegurar que todos los esfuerzos y decisiones de la empresa estén dirigidos hacia metas comunes y coherentes.,copilot,bueno
+73,23,"Las empresas pueden comunicar su filosofía organizacional a través de canales internos como reuniones, boletines informativos y entrenamientos, así como mediante la integración de estos principios en sus políticas y prácticas diarias.",copilot,bueno
+74,24,"La ética y los valores son fundamentales en la filosofía organizacional, ya que guían las decisiones y acciones hacia comportamientos responsables y sostenibles a largo plazo.",copilot,bueno
+75,25,"Una filosofía organizacional sólida contribuye al éxito a largo plazo de una empresa al crear un sentido compartido de propósito, fomentar el compromiso de los empleados y construir una reputación positiva en el mercado.",copilot,regular
+76,1,"El poder se define como la capacidad de influir en las decisiones y acciones de otros, a través de estructuras formales o informales.",llama,bueno
+77,2,"Las principales teorías son el marxismo, la teoría de la dependencia, y la teoría de la autoridad.",llama,regular
+78,3,"El poder formal se ejerce a través de las estructuras y roles formales, mientras que el poder informal se ejerce a través de redes y relaciones personales.",llama,bueno
+79,4,"El ejercicio del poder puede tener implicaciones éticas, como la posible discriminación, chantaje o abuso de autoridad.",llama,bueno
+80,5,"Se pueden emplear estrategias como la transparencia, la comunicación efectiva y el liderazgo ético.",llama,bueno
+81,6,"Un buen líder es aquel que inspira, motiva y guía a sus seguidores, y se adapta a las necesidades de su equipo.",llama,regular
+82,7,"El estilo autocrático se caracteriza por una decisión unilateral, el estilo democrático por la toma de decisiones conjunta, y el estilo laissez-faire por la delegación y el crecimiento de responsabilidades.",llama,bueno
+83,8,"El liderazgo transformacional implica inspirar y motivar a los liderados para lograr objetivos comunes, a través de la comunicación efectiva y la empatía.",llama,bueno
+84,9,"Los rasgos personales, la formación y la experiencia influyen en el estilo de liderazgo de un individuo.",llama,regular
+85,10,"Los líderes deben adaptarse a las necesidades de su equipo y empresa, y gestionar la diversidad y la globalización.",llama,bueno
+86,11,"El comportamiento asertivo se caracteriza por expresar consecuentemente propios pensamientos, sentimientos y necesidades de manera respetuosa.",llama,bueno
+87,12,"La empatía ayuda a entender y comprender la perspectiva de los demás, lo que facilita la resolución de conflictos.",llama,malo
+88,13,"Las formas de trabajo flexibles se refieren a la flexibilidad en el horario, lugar y modalidad de trabajo.",llama,regular
+89,14,La comunicación efectiva y la gestión del tiempo y la productividad pueden ser desafíos importantes.,llama,regular
+90,15,Las tecnologías de la información y comunicación pueden facilitar la colaboración a través de herramientas de comunicación y colaboración en línea.,llama,malo
+91,16,"Las tendencias emergentes incluyen la flexibilidad, el teletrabajo y el trabajo en equipo distribuido.",llama,bueno
+92,17,"La filosofía organizacional se refiere a la misión, visión y valores de una empresa.",llama,regular
+93,18,La alineación es esencial para lograr objetivos comunes y mejorar la productividad y el bienestar de los empleados.,llama,bueno
+94,19,"La comunicación efectiva se logra a través de mensajes claros, visibles y accesibles.",llama,regular
+95,20,La ética y los valores son fundamentales para la elaboración de una filosofía organizacional sólida y ética.,llama,bueno
+96,21,"La filosofía organizacional está compuesta por los valores, creencias y principios que guían la empresa y definen su visión, misión y objetivos. Esto influye en la cultura corporativa al crear un entorno laboral coherente y transparente, lo que motiva a los empleados y aumenta la satisfacción en el trabajo.",llama,bueno
+97,22,La importancia de alinear la filosofía organizacional con los objetivos estratégicos reside en que un objetivo claro y compartido entre todos los niveles de la empresa facilita la toma de decisiones y mejorar la eficacia en la implementación de estrategias.,llama,regular
+98,23,"Las empresas pueden comunicar efectivamente su filosofía organizacional a empleados y otras partes interesadas a través de variados canales, como reuniones, informes anuales, redes sociales, reuniones internas y propuesta de preguntas y respuestas.",llama,bueno
+99,24,"La ética y los valores tienen un papel fundamental en la elaboración de la filosofía organizacional, ya que les da dirección y significado a la empresa, y sirve como guía para tomar decisiones y evaluar los resultados.",llama,regular
+100,25,"Una filosofía organizacional sólida puede contribuir al éxito a largo plazo de una empresa en un mercado competitivo al crear una cultura de compromiso, responsabilidad y trabajo en equipo, lo que atrae y retiene a talentos calificados, y fortalece la marca y la reputación de la empresa.",llama,regular
+101,1,El poder en las relaciones sociales y organizacionales se refiere a la capacidad de una persona o grupo para influir en los demás.,gema,bueno
+102,2,"Las principales teorías que explican el concepto de poder incluyen el poder como recurso, el poder como relación y el poder como influencia.",gema,bueno
+103,3,"El poder formal se deriva de la posición de autoridad, mientras que el poder informal se basa en las relaciones y las redes.",gema,regular
+104,4,"Las implicaciones éticas del ejercicio del poder incluyen la justicia, la transparencia y la responsabilidad.",gema,bueno
+105,5,"Las estrategias para gestionar el poder incluyen la comunicación efectiva, la construcción de relaciones y el desarrollo de habilidades de liderazgo.",gema,bueno
+106,6,"Las características principales de un buen líder incluyen la capacidad de comunicación, la capacidad de toma de decisiones y la capacidad de motivantes a los demás.",gema,regular
+107,7,"Los estilos de liderazgo autocrático enfatizan el control y la disciplina, mientras que los estilos democráticos enfatizan la participación y el consenso. El estilo Laissez-faire enfatiza la autonomía y la responsabilidad individual.",gema,bueno
+108,8,"El liderazgo transformacional es importante para el desarrollo organizacional al fomentar la innovación, la creatividad y el compromiso",gema,bueno
+109,9,"Los rasgos personales, como la capacidad de liderazgo, la resiliencia y la capacidad de trabajo en equipo, pueden influir en el estilo de liderazgo.",gema,bueno
+110,10,"Los desafíos comunes que enfrentan los líderes en un entorno empresarial globalizado y diverso incluyen la diversidad cultural, las diferentes culturas organizativas y las políticas comerciales.",gema,bueno
+111,11,El comportamiento asertivo es la capacidad de comunicar y defender sus ideas y derechos de manera efectiva.,gema,regular
+112,12,"Ser asertivo es más que simplemente ser agresivo o pasivo. Es sobre hablar de manera clara y directamente, pero con respeto.",gema,bueno
+113,13,Las habilidades asertivas se pueden desarrollar a través de la práctica y la formación.,gema,regular
+114,14,"Las barreras comunes para la expresión asertiva incluyen el miedo al rechazo, la falta de confianza y las normas organizativas.",gema,bueno
+115,15,"La empatía es importante en la práctica de la asertividad, ya que ayuda a desarrollar relaciones más fuertes y a tomar decisiones más informadas.",gema,bueno
+116,16,"Las formas flexibles de trabajo incluyen el trabajo remoto, híbrido y presencial. Sus beneficios para los empleadores incluyen mayor flexibilidad y productividad, mientras que para los empleados incluyen un mejor equilibrio entre la vida y el trabajo y un mayor control sobre su tiempo.",gema,regular
+117,17,"El trabajo remoto es completamente en línea, el trabajo híbrido es una mezcla de presencial y remoto, mientras que el trabajo presencial es en la oficina o en un espacio físico específico. El trabajo remoto puede aumentar la productividad, mientras que el trabajo presencial puede mejorar la colaboración.",gema,bueno
+118,18,Desafíos para implementar modelos de trabajo a distancia incluyen la necesidad de establecer políticas y procesos claros para la comunicación y la colaboración.,gema,bueno
+119,19,"Las tecnologías de la información y comunicación pueden facilitar la colaboración en equipos distribuidos mediante plataformas de videoconferencia, herramientas de comunicación grupal y sistemas de gestión de proyectos digitales.",gema,reular
+120,20,"Las tendencias emergentes en las formas de trabajo incluyen el trabajo remoto flexible, la gamificación del trabajo y la inteligencia artificial en la gestión del trabajo.",gema,bueno
+121,21,La filosofía organizacional es una conjunto de principios y valores que guían las acciones y decisiones de una empresa.,gema,bueno
+122,22,Alinear la filosofía organizacional con los objetivos estratégicos de una empresa aumenta la eficiencia y la eficacia.,gema,regular
+123,23,Las empresas pueden comunicar eficazmente su filosofía organizacional a los empleados y otras partes interesadas a través de la comunicación clara y transparente.,gema,bueno
+124,24,"La ética y los valores son esenciales para la elaboración de la filosofía organizacional de una empresa, ya que proporcionan principios básicos para tomar decisiones.",gema,regular
+125,25,"Una filosofía organizacional sólida puede contribuir al éxito a largo plazo de una empresa al fomentar la visión, la misión y los valores de la empresa.",gema,regular
+126,1,"El poder en el contexto de las relaciones sociales y organizacionales se define como la capacidad de influir en las acciones, opiniones o decisiones de otros.",nixter,bueno
+127,2,"Las principales teorías que explican el concepto de poder son la teoría de la dependencia, la teoría de los recursos y la teoría de los intercambios.",nixter,bueno
+128,3,"El poder formal se refiere a la autoridad otorgada por la posición jerárquica en una organización, mientras que el poder informal se basa en las relaciones y habilidades personales. Ambos tipos de poder influyen en la estructura organizacional al afectar el proceso de toma de decisiones y el cumplimiento de políticas y procedimientos.",nixter,regular
+129,4,"El ejercicio del poder en diferentes contextos puede tener implicaciones éticas si se abusa del poder, se marginaliza a ciertos grupos o se socavan los derechos y libertades individuales.",nixter,bueno
+130,5,"Para gestionar el poder de manera efectiva en un entorno laboral, se pueden emplear estrategias como construir relaciones sólidas, comunicar claramente expectativas y objetivos, fomentar el respeto y la colaboración, y establecer procesos de toma de decisiones transparentes.",nixter,bueno
+131,6,"Las características principales de un buen líder son la integridad, la comunicación efectiva, la capacidad de motivar y empoderar a otros, y la visión estratégica.",nixter,regular
+132,7,"El estilo de liderazgo autocrático se basa en la toma de decisiones unilateral, el democrático en la participación y colaboración de todos los miembros del equipo, y el laissez-faire en la delegación total de responsabilidades y autonomía.",nixter,bueno
+133,8,"El liderazgo transformacional es importante en el desarrollo organizacional ya que enfatiza la inspiración, el empoderamiento y el crecimiento personal y profesional de los miembros del equipo.",nixter,bueno
+134,9,"Los rasgos personales que influyen en el estilo de liderazgo de un individuo incluyen la personalidad, la experiencia, la educación y los valores.",nixter,regular
+135,10,"Algunos desafíos comunes que enfrentan los líderes en un entorno empresarial globalizado y diverso son la comunicación intercultural, la gestión de la diversidad y la inclusión, y la adaptación a cambios constantes y rápidos en el mercado.",nixter,bueno
+136,11,"El comportamiento asertivo se refiere a la capacidad de expresar opiniones, sentimientos y necesidades de manera clara, directa y respetuosa. Es importante en la comunicación interpersonal porque promueve la confianza, la colaboración y la resolución efectiva de conflictos.",nixter,bueno
+137,12,"La asertividad se diferencia de la pasividad, que implica no expresar opiniones o necesidades, y de la agresividad, que implica imponer opiniones o necesidades a expensas de otros.",nixter,regular
+138,13,"Se pueden desarrollar habilidades asertivas en un entorno laboral a través de prácticas como el entrenamiento en comunicación efectiva, el coaching de liderazgo y el desarrollo de habilidades interpersonales.",nixter,bueno
+139,14,"Algunas barreras comunes que impiden a las personas expresarse de manera asertiva incluyen la falta de confianza en sí mismas, el miedo al rechazo o al conflicto, y la falta de habilidades comunicativas efectivas.",nixter,bueno
+140,15,La empatía juega un papel importante en la práctica de la asertividad ya que permite entender y respetar las perspectivas y necesidades de otros mientras se expresan las propias.,nixter,regular
+141,16,"Las formas de trabajo flexibles se refieren a arreglos de trabajo no tradicionales que ofrecen flexibilidad en términos de horario, lugar y estructura de trabajo. Sus beneficios incluyen una mayor satisfacción laboral, una mejor conciliación entre trabajo y vida personal, y una mayor productividad y eficiencia.",nixter,bueno
+142,17,"El trabajo presencial se realiza en las instalaciones de la empresa, lo que fomenta el trabajo en equipo y la comunicación cara a cara. El trabajo remoto permite a los empleados trabajar desde cualquier lugar con conexión a internet, pero puede generar sentimientos de aislamiento. El trabajo híbrido combina ambos enfoques, pero requiere una buena gestión y comunicación. La productividad puede aumentar con el trabajo remoto o híbrido al reducir las distracciones, pero el bienestar emocional puede verse afectado por la falta de interacción social y la dificultad para desconectar.",nixter,regular
+143,18,"Algunos desafíos al implementar modelos de trabajo a distancia incluyen la supervisión remota, la colaboración en equipo, la seguridad de la información, la comunicación asincrónica y la integración de nuevos empleados. La falta de interacción personal puede afectar el clima laboral y el compromiso de los trabajadores.",nixter,bueno
+144,19,"Las tecnologías de la información y comunicación, como las plataformas virtuales de colaboración y las herramientas de comunicación en tiempo real, facilitan el intercambio de ideas, la gestión de proyectos y el seguimiento del progreso en equipos distribuidos.",nixter,bueno
+145,20,"Las tendencias emergentes en las formas de trabajo incluyen el trabajo gig, el teletrabajo, la automatización, el aprendizaje permanente, la diversidad e inclusión y los entornos de trabajo centrados en el bienestar. Estas tendencias transforman el mundo laboral promoviendo nuevas habilidades, estructuras organizativas y modelos de liderazgo.",nixter,regular
+146,21,"Los elementos que componen la filosofía organizacional de una empresa incluyen la visión, misión, valores, estrategia, estructura y climas laboral. Estos elementos influyen en la cultura corporativa al dar forma a las actitudes, creencias y comportamientos de los empleados y líderes.",nixter,bueno
+147,22,"La alineación de la filosofía organizacional con los objetivos estratégicos de una empresa es crucial para garantizar que las decisiones y acciones de la organización estén orientadas hacia el éxito a largo plazo. Una filosofía organizacional sólida guía las prioridades y recursos de la empresa, fomenta la coherencia y el compromiso de los empleados y mejora el desempeño general.",nixter,bueno
+148,23,"Las empresas pueden comunicar efectivamente su filosofía organizacional a empleados y otras partes interesadas a través de diversos canales de comunicación, como reuniones, capacitaciones, documentos escritos, redes sociales y eventos corporativos. La comunicación abierta y honesta refuerza la confianza y el compromiso de los stakeholders.",nixter,bueno
+149,24,"La ética y los valores desempeñan un papel fundamental en la elaboración de la filosofía organizacional, ya que transmiten los principios y creencias fundamentales que rigen la toma de decisiones y las acciones de la empresa. Estos valores influyen en la cultura corporativa y la reputación de la empresa, y ayudan a atraer y retener talento.",nixter,bueno
+150,25,"Una filosofía organizacional sólida contribuye al éxito a largo plazo de una empresa en un mercado competitivo al proporcionar una dirección clara y consistente, fomentar la innovación y la adaptabilidad, promover un entorno de trabajo positivo y motivador, y reforzar la confianza y credibilidad de los stakeholders.",nixter,bueno

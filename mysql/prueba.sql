@@ -45,6 +45,7 @@ CREATE TABLE preguntas (
   PRIMARY KEY (id_pregunta),
   KEY preguntas_temas_FK (id_tema),
   CONSTRAINT preguntas_temas_FK FOREIGN KEY (id_tema) REFERENCES temas (id_tema) ON DELETE SET DEFAULT ON UPDATE SET DEFAULT
+  CONSTRAINT chk_calidad_promt CHECK (calidad_prompt >= 1 AND calidad_prompt <= 5);
 ) ENGINE=InnoDB AUTO_INCREMENT=26 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 LOAD DATA LOCAL INFILE "preguntas.csv"
