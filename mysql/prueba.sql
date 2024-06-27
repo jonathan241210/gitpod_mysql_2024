@@ -60,13 +60,14 @@ CREATE TABLE respuestas (
   id_respuesta int NOT NULL AUTO_INCREMENT,
   id_pregunta int NOT NULL,
   respuesta text CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
-  ai text CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  ai varchar(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
   calidad_respuesta VARCHAR(100) NOT NULL,
   PRIMARY KEY (id_respuesta),
   KEY respuestas_preguntas_FK (id_pregunta),
   CONSTRAINT respuestas_preguntas_FK FOREIGN KEY (id_pregunta) REFERENCES preguntas (id_pregunta) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT chk_calidad_respuesta CHECK (calidad_respuesta IN ('bueno', 'regular', 'malo'))
-) ENGINE=InnoDB AUTO_INCREMENT=151 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
 
 LOAD DATA LOCAL INFILE "respuestas.csv"
 INTO TABLE respuestas
