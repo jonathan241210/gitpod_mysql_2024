@@ -7,7 +7,9 @@ CREATE TABLE materias (
   nombre_de_materia varchar(100) NOT NULL,
   cuatrimestre varchar(100) NOT NULL,
   PRIMARY KEY (id_materia)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
 
 LOAD DATA LOCAL INFILE "materias.csv"
 INTO TABLE materias
