@@ -67,7 +67,7 @@ CREATE TABLE respuestas (
   PRIMARY KEY (id_respuesta),
   KEY respuestas_preguntas_FK (id_pregunta),
   CONSTRAINT respuestas_preguntas_FK FOREIGN KEY (id_pregunta) REFERENCES preguntas (id_pregunta) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT chk_calidad_respuesta CHECK (calidad_respuesta IN ('bueno', 'regular', 'malo'))
+  
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 
