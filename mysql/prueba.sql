@@ -28,7 +28,7 @@ CREATE TABLE temas (
   KEY temas_materias_FK (id_materia),
   CONSTRAINT temas_materias_FK FOREIGN KEY (id_materia) REFERENCES materias (id_materia) ON DELETE SET DEFAULT ON UPDATE SET DEFAULT,
   CONSTRAINT chk_dificultad CHECK (dificultad BETWEEN 1 AND 5)
-) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 LOAD DATA LOCAL INFILE "temas.csv"
 INTO TABLE temas
@@ -48,7 +48,7 @@ CREATE TABLE preguntas (
   KEY preguntas_temas_FK (id_tema),
   CONSTRAINT preguntas_temas_FK FOREIGN KEY (id_tema) REFERENCES temas (id_tema) ON DELETE SET DEFAULT ON UPDATE SET DEFAULT,
   CONSTRAINT chk_calidad_promt CHECK (calidad_promt >= 1 AND calidad_promt <= 5)
-) ENGINE=InnoDB AUTO_INCREMENT=26 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 LOAD DATA LOCAL INFILE "preguntas.csv"
 INTO TABLE preguntas
